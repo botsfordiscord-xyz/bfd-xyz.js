@@ -1,13 +1,13 @@
-# discord.boats API
+4# Bots For Discord API
 A simple library for interacting with the discordboats.zyx API.
 
 ## Getting Started
-Simply install by navigating to your project directory then running `npm i discord.boats`.
+Simply install by navigating to your project directory then running `npm i https://github.com/botsfordiscord-xyz/bfd-xyz.js`.
 
 ## Example
 
 ```js
-const Client = require('discordboats.xyz');
+const Client = require('bfd-xyz.js');
 const client = new Client('Bot ID', 'User Token');
 
 client.getBot('d').then(bot => {
